@@ -10,7 +10,7 @@
 
 Roomlie is a comprehensive, frontend-heavy web application designed for managing game rooms, pub tables, or event spaces. It features a fully interactive 2D floor plan editor, a role-based booking system, and dark mode support.
 
-> **Note for Recruiters:** The backend server for this university project was deprecated. To keep the project fully reviewable and functional in a portfolio context, I implemented a **Graceful Degradation (Mock API)** system. The app automatically intercepts HTTP requests and serves realistic mock data via browser `localStorage`, simulating database persistence and network latency.
+> **Note for Recruiters:** The backend server for this project was deprecated. To keep the project fully reviewable and functional in a portfolio context, I implemented a **Graceful Degradation (Mock API)** system. The app automatically intercepts HTTP requests and serves realistic mock data via browser `localStorage`, simulating database persistence and network latency.
 
 ---
 
@@ -54,12 +54,12 @@ To run this project on your local machine:
 
 1. Clone the repository:
    ```bash
-     git clone [https://github.com/Varoczi/React_beadando_v2.git](https://github.com/Varoczi/React_beadando_v2.git)
+     git clone [https://github.com/Varoczi/Roomlie.git](https://github.com/Varoczi/Roomlie.git)
    ```
    
 2. Navigate to the directory:
   ```bash
-    cd React_beadando_v2
+    cd Roomlie
   ```
 
 3. Install dependencies:
